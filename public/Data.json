@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Home Box",
+    "thumbnail": "https://i.ibb.co.com/mr2vB8v3/smart-home-automation-controller-domotica-distribution-box-equipment-electric-control-panel-custom-r.webp",
+    "banner": "https://i.ibb.co.com/mr2vB8v3/smart-home-automation-controller-domotica-distribution-box-equipment-electric-control-panel-custom-r.webp",
+    "frequency": "Yearly",
+    "price": 199.99,
+    "description": "Transform your house into a futuristic smart home with our premium yearly subscription box. This box features a curated collection of smart home devices including sensors, smart lights, and automation tools to make your home more efficient and secure. Ideal for tech enthusiasts who want seamless control of their home environment via their smartphone or voice assistant.",
+    "tech_category": "Smart Home",
+    "features": [
+      "Smart Home Devices",
+      "Home Automation Tools",
+      "Cutting-edge IoT Gadgets"
+    ],
+    "subscription_benefits": [
+      "Discount on Future Smart Home Purchases",
+      "Exclusive Smart Home Tutorials",
+      "Early Access to Product Releases"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 315
+  },
+  {
+    "id": 2,
+    "name": "Fitness Essentials Box",
+    "thumbnail": "https://i.ibb.co.com/1YPbLCFQ/fitness-essentials-tiruvottiyur-chennai-fitness-centres-xpyg40hiec.jpg",
+    "banner": "https://example.com/images/fitness-box-banner.jpg",
+    "frequency": "Monthly",
+    "price": 49.99,
+    "description": "Stay on top of your health and fitness goals with our monthly Fitness Essentials Box. Each delivery includes handpicked fitness gear, nutritional snacks, and workout plans designed by certified trainers. Whether you're working out at home or hitting the gym, this box will keep you motivated and energized throughout your fitness journey.",
+    "tech_category": "Fitness",
+    "features": ["Workout Equipment", "Healthy Snacks", "Fitness Plans"],
+    "subscription_benefits": [
+      "Free Online Workout Sessions",
+      "Exclusive Nutrition Guides",
+      "Discount on Fitness Merchandise"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 210
+  },
+  {
+    "id": 3,
+    "name": "Tech Explorer Box",
+    "thumbnail": "https://i.ibb.co.com/CrJqQwT/4338e25d-3f50-438a-8247-82c0bcd96913-728.webp",
+    "banner": "https://example.com/images/tech-box-banner.jpg",
+    "frequency": "Quarterly",
+    "price": 89.99,
+    "description": "Unleash your inner innovator with the Tech Explorer Box, a quarterly subscription packed with cutting-edge tech gadgets and DIY electronics. From mini robots to programmable kits, this box is designed for curious minds who love experimenting with technology. Great for students, tinkerers, and early adopters of all ages.",
+    "tech_category": "Gadgets",
+    "features": [
+      "New Gadgets Every Season",
+      "Smart Accessories",
+      "DIY Tech Projects"
+    ],
+    "subscription_benefits": [
+      "Access to Beta Gadgets",
+      "Exclusive Tech Reviews",
+      "VIP Giveaways"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 180
+  },
+  {
+    "id": 4,
+    "name": "Gaming Pro Box",
+    "thumbnail": "https://i.ibb.co.com/ymDkYVZp/g11-pro-mp4.webp",
+    "banner": "https://example.com/images/gaming-box-banner.jpg",
+    "frequency": "Monthly",
+    "price": 59.99,
+    "description": "Get the ultimate gaming experience delivered monthly with the Gaming Pro Box. Includes elite accessories like RGB keyboards, precision mice, and exclusive in-game codes. Perfect for streamers, eSports players, and hardcore gamers who want to elevate their setup and stay ahead of the competition.",
+    "tech_category": "Gaming",
+    "features": [
+      "Gaming Mice & Keyboards",
+      "RGB Accessories",
+      "Game Codes & Beta Access"
+    ],
+    "subscription_benefits": [
+      "Early Game Access",
+      "Streaming Tips and Tools",
+      "Discount on Gaming Merch"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 290
+  },
+  {
+    "id": 5,
+    "name": "Photography Starter Box",
+    "thumbnail": "https://i.ibb.co.com/TMT1CfTr/images.jpg",
+    "banner": "https://example.com/images/photo-box-banner.jpg",
+    "frequency": "Bi-Monthly",
+    "price": 74.99,
+    "description": "Kickstart your photography hobby or career with this bi-monthly box crafted for budding photographers. Each box includes camera accessories, lighting tools, editing software trials, and challenge cards to help you practice and grow your skills. Also includes online resources and community access for sharing and feedback.",
+    "tech_category": "Photography",
+    "features": ["Camera Accessories", "Editing Tools", "Photo Challenges"],
+    "subscription_benefits": [
+      "Free Lightroom Presets",
+      "Photography Tutorials",
+      "Mentorship Access"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 140
+  },
+  {
+    "id": 6,
+    "name": "Coding Tools Box",
+    "thumbnail": "https://i.ibb.co.com/Zz90MNG8/images.jpg",
+    "banner": "https://example.com/images/coding-box-banner.jpg",
+    "frequency": "Monthly",
+    "price": 39.99,
+    "description": "Designed for developers and coding enthusiasts, the Coding Tools Box brings you monthly project kits, cheat sheets, and pro-level resources to sharpen your programming skills. Whether you're a beginner learning JavaScript or an advanced coder building apps, this box supports your learning journey with hands-on tools and challenges.",
+    "tech_category": "Programming",
+    "features": ["Developer Tools", "Coding Challenges", "Mini Projects"],
+    "subscription_benefits": [
+      "Access to Exclusive GitHub Repos",
+      "Code Review Sessions",
+      "Online Hackathon Invites"
+    ],
+    "ratings": 4.85,
+    "number_of_reviews": 260
+  }
+]
